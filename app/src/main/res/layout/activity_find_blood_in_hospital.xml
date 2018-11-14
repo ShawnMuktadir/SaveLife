@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".FindBloodInHospital">
+
+
+    <EditText
+        android:id="@+id/searchEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/search_from_hospital"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:drawableStart="@drawable/search"
+        android:paddingStart="10dp"
+        android:background="#a52a2a"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="3dp"
+        android:padding="5dp"
+        android:layout_marginBottom="3dp"
+        android:inputType="text"
+        android:paddingEnd="2dp"/>
+
+    <ListView
+        android:id="@+id/list_of_hospital"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@color/colorPrimary"
+        android:dividerHeight="2dp" />
+
+</LinearLayout>

@@ -1,0 +1,233 @@
+<resources>
+
+    <string name="app_name">SaveLife</string>
+    <string name="be_a_donor_nsave_a_life">Be A Donor\nSave A Life</string>
+    <string name="blood_icon">Blood Icon</string>
+    <string name="phone_icon">Phone_icon</string>
+    <string name="sms_icon">sms_icon</string>
+    <string name="benefits_for_na_donor">Benefit of A Donor</string>
+    <string name="find_blood">Find Blood</string>
+    <string name="be_a_donor">Be A Donor</string>
+    <string name="find_in_hospital">Find in\nHospital</string>
+    <string name="sent_sms">Send SMS in Contact</string>
+    <string name="send_feedback">About This App</string>
+    <!--<string name="md_muktadir">Md.Muktadir </string>-->
+    <string name="find_blood_icon">find_blood_icon</string>
+    <string name="findBloodinHospitalIcon">find_blood_in_hospital_icon</string>
+    <string name="benefit_for_a_donor_icon">Benefit_for_a_donor_icon</string>
+    <string name="beAdonorIcon">Be_A_Donor_Icon</string>
+    <string name="give_post_to_facebook">Give a Post To Facebook</string>
+    <string name="send_feedback_icon">send_feedback_icon</string>
+
+
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+
+    <string name="do_you_want_to_say_anything_about_our_app">Do you want to say\nanything about our app !!!</string>
+
+    <string name="a">A+</string>
+    <string name="a_a">A-</string>
+    <string name="b">B+</string>
+    <string name="b_b">B+</string>
+    <string name="o">O+</string>
+    <string name="o_o">O-</string>
+    <string name="ab">AB+</string>
+    <string name="a_b">AB-</string>
+    <string name="enter_your_location">Enter Your Location :</string>
+    <string name="done">Done</string>
+    <string name="send_feedback_button">Send Feedback</string>
+    <string name="ad_din_hospital">ad din Hospital</string>
+    <string name="hospital_name">Ibn Sina Hospital and Diagnostic Center</string>
+    <string name="donor_name">Md. Muktadir</string>
+    <string name="hospital_phone_number">01711-609616</string>
+    <string name="donor_phone_number">01748235239</string>
+    <string name="phone_icon_for_hospital">Phone_icon_for_hospitlal</string>
+    <string name="select_your_location">Select Your Location</string>
+
+
+    <string-array name="hospital_Name">
+        <item>Bangladesh Red Crescent Blood Bank\nMohammadpur, Dhaka</item>
+        <item>Fatema Begum Red Crescent Blood Bank\nAndharkilla, Chittagong</item>
+        <item>Mujib Jahan Red Crescent Blood Bank\nCouhatta Sylhet</item>
+        <item><b>Ahad Red Crescent Blood Bank\nMunshi Meherullah Road, Jessore</b></item>
+        <item><b>Begum Tyoba Mojumdar Red Crescent Blood Bank\nPaharpur, Dinajpur</b></item>
+        <item><b>Islami Blood Bank</b></item>
+        <item><b>RedCrescent</b></item>
+        <item><b>BD Blood Bank</b></item>
+        <item><b>Badhan</b></item>
+        <item><b>Bangladesh Red Crescent Society</b></item>
+    </string-array>
+
+    <string-array name="hospital_phone_number">
+        <item>029116563</item>
+        <item>031620685</item>
+        <item>01611300900</item>
+        <item>042173100</item>
+        <item>053164021</item>
+        <item>01928287363</item>
+        <item>01625677282</item>
+        <item>01673839383</item>
+        <item>01534982674</item>
+        <item>029352226</item>
+    </string-array>
+
+    <string-array name="location_names">
+        <item>ALL</item>
+        <item>Barisal</item>
+        <item>Barguna</item>
+        <item>Bagerhat</item>
+        <item>Bandarban</item>
+        <item>Bhola</item>
+        <item>Bogra</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chuadanga</item>
+        <item>Chapainababganj</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Coxsbazar</item>
+        <item>Dhaka</item>
+        <item>Dinajpur</item>
+        <item>Faridpur</item>
+        <item>Feni</item>
+        <item>Gazipur</item>
+        <item>Gaibandha</item>
+        <item>Gopalganj</item>
+        <item>Habiganj</item>
+        <item>Jamalpur</item>
+        <item>Jhalokati</item>
+        <item>Joypurhat</item>
+        <item>Jessore</item>
+        <item>Jhenaidah</item>
+        <item>Khagrachhari</item>
+        <item>Khulna</item>
+        <item>Kurigram</item>
+        <item>Kushtia</item>
+        <item>Kishoregonj</item>
+        <item>Lakshimpur</item>
+        <item>Lalmonirhat</item>
+        <item>Madaripur</item>
+        <item>Manikganj</item>
+        <item>Maulvibazar</item>
+        <item>Munshiganj</item>
+        <item>Mymensingh</item>
+        <item>Magura</item>
+        <item>Meherpur</item>
+        <item>Narail</item>
+        <item>Narayanganj</item>
+        <item>Narsingdi</item>
+        <item>Netrakona</item>
+        <item>Naogaon</item>
+        <item>Natore</item>
+        <item>Nilphamari</item>
+        <item>Noakhali</item>
+        <item>Patuakhali</item>
+        <item>Pabna</item>
+        <item>Panchagarh</item>
+        <item>Pirojpur</item>
+        <item>Rajbari</item>
+        <item>Rangamati</item>
+        <item>Rangpur</item>
+        <item>Rajshahi</item>
+        <item>Shariatpur</item>
+        <item>Sherpur</item>
+        <item>Sunamganj</item>
+        <item>Sylhet</item>
+        <item>Sirajganj</item>
+        <item>Satkhira</item>
+        <item>Tangail</item>
+        <item>Thakurgaon</item>
+    </string-array>
+
+    <string name="chooseBloodGroup">Choose Your Blood Group :</string>
+    <string name="facebook_icon">facebook_icon</string>
+    <string name="twitter_icon">twitter_icon</string>
+    <string name="gmail_icon">gmail_icon</string>
+    <string name="feedback_in_about_app">Send Feedback</string>
+    <string name="share_this_app">Share This App</string>
+    <string name="app_developer">App Developer</string>
+    <string name="developer_image">developer image</string>
+    <string name="donor_location_btn_text">Select Your Location</string>
+    <string name="free_ride_for_donate_blood">Free Ride for Donate Blood</string>
+    <string name="hospitalSearch">Search From Hospital</string>
+    <string name="select_blood_group">Select Blood Group</string>
+    <string name="select_your_location_filter">Select Your Location</string>
+    <string name="filter">Filter</string>
+    <string name="md_muktadir">Md.Muktadir </string>
+    <string name="choose_your_blood_group">Choose Your Blood Group :</string>
+    <string name="select_your_location_alertbtn">Select Your Location</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="location">Location</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="image_icon">Image Icon</string>
+    <string name="save_life_app_icon">Save Life App Icon</string>
+    <string name="pathao_app_icon">Pathao App Icon</string>
+    <string name="uber_app_icon">Uber App Icon</string>
+    <string name="shohoz_app_icon">Shohoz App Icon</string>
+    <string name="obhai_app_icon">Obhai App Icon</string>
+    <string name="search_from_hospital">Search from hospital \n Please Enter capital letters </string>
+
+
+    <string name="before_blood_donate">
+       <b> রক্ত দেয়ার পূর্বে করনীয়ঃ \n</b>
+        \n১) আপনি যদি কোনো কারণে অসুস্থবোধ করে তবে সেদিনের মতো রক্ত দেয়া থেকে বিরত থাকুন
+        \n২) রক্ত দেয়ার পূর্বে পুষ্টিকর খাবার খেয়ে নিন, কিন্তু তৈলাক্ত কিছু খাবেন না।
+        \n৩) রক্ত দানের পূর্বে প্রচুর পরিমাণে পানি ও পানি জাতীয় খাবার খাবেন।
+        \n৪) যেদিন রক্ত দেবেন তার আগের রাতে অনেকটা সময় ভালো করে ঘুমিয়ে নেবেন।
+    </string>
+
+    <string name="after_blood_donate">
+       <b> রক্তদানের পরে করনীয়ঃ\n</b>
+        \n১) অনেকটা সময় শুয়ে থাকবেন। হুট করে উঠে বসবেন না বা উঠে দাঁড়াবেন না।
+        \n২) প্রচুর পরিমাণে পানি ও পানি জাতীয় খাবার গ্রহন করুন। এই ব্যাপারে অবহেলা করবেন না মোটেও।
+        \n৩) আয়রন, ফোলাইট, রিবোফ্লাবিন, ভিটামিন বি৬ সমৃদ্ধ খাবার যেমন লাল মাংস, মাছ, ডিম, কিশমিশ, কলা ইত্যাদি ধরণের খাবার খাবেন।
+        \n৪) কয়েক ঘণ্টার জন্য শারীরিক পরিশ্রমের কাজ করা থেকে বিরত থাকুন। এবং বেশ কিছুদিন সাধারণ সময়ের তুলনায় একটু কম পরিশ্রম করে বিশ্রাম নিন।
+        \n৫) রক্তদানের ৩ মাস পর নতুন করে রক্ত দিতে পারবেন। এর আগে পুনরায় রক্ত দেবেন না।
+    </string>
+
+    <string name="benefit">
+       <b> স্বেচ্ছা রক্ত দানের উপকারিতা\n\n</b>
+        শারীরিক উপকারিতাঃ\n\n
+
+    বিভিন্ন গবেষণার ফলাফল এটাই যে রক্ত নিয়মিত রক্ত দান স্বাস্থের জন্যে শুধু উপকারিই নয় বরং নিয়মিত রক্ত দিলে একজন মানুষ মুক্ত থাকতে পারেন বেশ কয়েকটি মারাত্মক রোগের ঝুঁকি থেকে।
+
+    \n\nক্যান্সারের ঝুঁকি কমেঃ\n\n
+
+মিলার-কিস্টোন ব্লাড সেন্টারের এক গবেষণায় দেখা যায় নিয়মিত রক্ত দিলে ক্যান্সারের ঝুঁকি কমে। বিশেষ করে ফুসফুস, লিভার, কোলন, পাকস্থলী ও গলার ক্যান্সারের ঝুঁকি নিয়মিত রক্ত দাতাদের ক্ষেত্রে অন্যান্য দের চেয়ে অনেক কম থাকে।
+
+        \n\nহৃদরোগ এবং হার্ট অ্যাটাকের ঝুঁকি কমেঃ\n\n
+
+        নিয়মিত রক্তদানে হৃদযন্ত্রের সামগ্রিক উন্নতি হয়। রক্তে যদি লৌহের পরিমাণ বেশি থাকে তাহলে কোলেস্টেরলের অক্সিডেশনের পরিমাণ বেড়ে যায়, ধমনী ক্ষতিগ্রস্থ হয়, ফলাফল হৃদরোগের ঝুঁকি বৃদ্ধি পায়। নিয়মিত রক্ত দিলে দেহে লৌহের পরিমাণ কমে যায় যা, হৃদ রোগের ঝুঁকিকেও কমিয়ে দেয় কার্যকর ভাবে।
+        যারা নিয়মিত রক্তদেন তাদের হার্ট অ্যাটাকের ঝুঁকি অন্যদের চেয়ে ৮৮ ভাগ কমে যায় এবং স্ট্রোক সহ অন্যান্য হৃদ রোগের ঝুঁকি কমে যায় ৩৩ ভাগ।
+
+        \n\nঅতিরিক্ত ক্যালরি ক্ষয়ঃ\n\n
+
+        নিয়মিত রক্তদানে শারীরিক ফিটনেস বাড়ে। ৪৫০ মিলিলিটার রক্ত দান করলে রক্ত দাতার দেহ থেকে ৬৫০ ক্যালরি পুড়ে। তাতে রক্তে শর্করার পরিমাণ স্বাভাবিক থাকে এবং ডায়বেটিসের ঝুঁকি কমে যায়।
+        এছাড়াও নিয়মিত রক্ত দান করলে কোন দুরারোগ্য ব্যাধি শরীরে দানা বাঁধতে পারে না তাই উচ্চরক্তচাপ সহ যে কোন কঠিন রোগ থেকে থাকা যায় নিরাপদ।
+
+        \n\nপ্রাণবন্ততা এবং কর্মক্ষমতা বৃদ্ধিঃ\n\n
+
+        রক্ত দান করার সাথে আমাদের শরীরের ব্যোন ম্যারো নতুন কনিকা তৈরির জন্য উদ্দীপ্ত হয়। রক্ত দান করার মাত্র ৪৮ ঘণ্টার মধ্যেই দেহে রক্তের পরিমাণ স্বাভাবিক হয়ে যায়। আর লোহিত কনিকার ঘাটতি পূরণ হয়ে যায় ৪ থেকে ৮ সপ্তাহের মধ্যেই। আর এই প্রক্রিয়া আমাদের শরীরের সার্বিক সুস্থতা ও কর্মক্ষমতা কেই বাড়িয়ে দেয়।
+
+        \n\nনিজের সুস্থতা পরীক্ষাঃ\n\n
+
+        রক্ত দান করার মাধ্যমে একজন রক্ত দাতা তার সার্বিক সুস্থটাকে যাচাই করে নিতে পারেন । হেপাটাইটিস বি, সি, সিফিলিস, ম্যালেরিয়া এবং এইডস এই পাঁচটি রোগের স্ক্রিনিং রিপোর্ট পাওয়া যাবে বিনামুল্যে যা করতে যে কোন সাধারণ মানের ডায়াগনস্টিক সেন্টারে কমপক্ষে কয়েক হাজার টাকা খরচ হবে। এভাবে বছরে তিনবার রক্তদান আপনার সার্বিক সুস্থতার নিশ্চয়তা প্রদান করে।
+    </string>
+
+    <string-array name="bloodGroupName">
+        <item>ALL</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string name="facebook_app_id">980382282162944</string>
+    <string name="fb_login_protocol_scheme">fb980382282162944</string>
+
+
+</resources>

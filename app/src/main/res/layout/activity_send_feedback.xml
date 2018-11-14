@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#800000"
+    tools:context=".SendFeedback">
+
+
+    <EditText
+        android:id="@+id/sendFeedbackET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/do_you_want_to_say_anything_about_our_app"
+        android:gravity="center"
+        android:textColorHint="@android:color/white"
+        android:padding="15dp"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"/>
+    <Button
+        android:id="@+id/feedBack_btn"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:text="@string/send_feedback_button"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:layout_width="243dp"
+        android:layout_height="60dp"
+        android:background="@drawable/buttonshape"
+        android:shadowColor="#A81E3E"
+        android:shadowDx="1"
+        android:shadowDy="0"
+        android:shadowRadius="15"
+        android:layout_marginTop="15dp"/>
+
+</LinearLayout>

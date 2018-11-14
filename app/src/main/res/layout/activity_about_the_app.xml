@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#800000"
+    android:orientation="vertical"
+    tools:context=".AboutTheApp">
+
+    <Button
+        android:id="@+id/sendFeedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="15dp"
+        android:text="@string/feedback_in_about_app"
+        android:textAllCaps="false"
+        android:textSize="30sp"
+        android:background="@drawable/radient_background"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:onClick="AboutTheAppBtn"/>
+    <Button
+        android:id="@+id/shareTheApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="15dp"
+        android:text="@string/share_this_app"
+        android:textAllCaps="false"
+        android:textSize="30sp"
+        android:background="@drawable/radient_background"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:onClick="AboutTheAppBtn"/>
+    <Button
+        android:id="@+id/appDeveloper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="15dp"
+        android:text="@string/app_developer"
+        android:textAllCaps="false"
+        android:textSize="30sp"
+        android:background="@drawable/radient_background"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:onClick="AboutTheAppBtn"/>
+
+</LinearLayout>

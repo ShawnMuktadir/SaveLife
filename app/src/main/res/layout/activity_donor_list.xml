@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="@drawable/radient_background"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/donor_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/md_muktadir"
+        android:layout_gravity="center_vertical"
+        android:textSize="20sp"
+        android:layout_weight="6"/>
+
+    <ImageButton
+        android:id="@+id/callButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/phone"
+        android:padding="5dp"
+        android:contentDescription="@string/phone_icon"
+        android:layout_marginStart="8dp"/>
+    <ImageButton
+        android:id="@+id/smsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/sms"
+        android:contentDescription="@string/sms_icon"
+        android:padding="5dp"
+        android:layout_margin="8dp"/>
+
+</LinearLayout>
